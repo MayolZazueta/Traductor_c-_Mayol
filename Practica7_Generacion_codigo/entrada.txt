@@ -1,0 +1,8 @@
+
+	int main(){
+		int a, b, resul;
+		a = 5;
+		b = 4;
+		resul = a + b;
+
+	}
