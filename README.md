@@ -16,3 +16,5 @@ Ahora se realiza el análisis semántico, el cual al momento de ir guardando en 
 ![alt text](https://github.com/MayolZazueta/Traductor_c-_Mayol/blob/master/SCREENS%20TRADUCTOR/4Tabla_simbolos.png)
 
 
+Si la variable ya ha sido creada, el retorno de la función no es del mismo tipo, el resultado no concuerda con el mismo tipo en la operación, los parametros no son suficientes como está declarado, son errores que se van llenando en una tabla dentro de lo que es el análisis semántico para posteriormente imprimir la tabla de errores que han sido encontrados durante su análisis; para esto, se modificó la entrada para poder mostrar un ejemplo: 
+![alt text](https://github.com/MayolZazueta/Traductor_c-_Mayol/blob/master/SCREENS%20TRADUCTOR/6_Entrada2_ConErroresParaTablaErrores.PNG)
