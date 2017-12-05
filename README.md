@@ -22,3 +22,4 @@ Si la variable ya ha sido creada, el retorno de la función no es del mismo tipo
 
 Regresando con el ejemplo de la primer entrada, ahora se procede a generar el código ensamblador, el cual por cuestiones de tiempo, ha como se ha solicitado por el maestro se ha generado el código aplicable a una funcion que realiza una suma de variables, siendo correcta la aceptación pasa a crearse un archivo (ensamblador.asm) que es el que se ejecutará desde Windows por medio de DosBox y MASM6.11:
 ![alt text](https://github.com/MayolZazueta/Traductor_c-_Mayol/blob/master/SCREENS%20TRADUCTOR/7Ensamblador_asm_Generado.PNG)
+![alt text](https://github.com/MayolZazueta/Traductor_c-_Mayol/blob/master/SCREENS%20TRADUCTOR/8Ejecuci%C3%B3n.PNG)
