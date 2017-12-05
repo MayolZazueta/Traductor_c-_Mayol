@@ -18,3 +18,7 @@ Ahora se realiza el análisis semántico, el cual al momento de ir guardando en 
 
 Si la variable ya ha sido creada, el retorno de la función no es del mismo tipo, el resultado no concuerda con el mismo tipo en la operación, los parametros no son suficientes como está declarado, son errores que se van llenando en una tabla dentro de lo que es el análisis semántico para posteriormente imprimir la tabla de errores que han sido encontrados durante su análisis; para esto, se modificó la entrada para poder mostrar un ejemplo: 
 ![alt text](https://github.com/MayolZazueta/Traductor_c-_Mayol/blob/master/SCREENS%20TRADUCTOR/6_Entrada2_ConErroresParaTablaErrores.PNG)
+
+
+Regresando con el ejemplo de la primer entrada, ahora se procede a generar el código ensamblador, el cual por cuestiones de tiempo, ha como se ha solicitado por el maestro se ha generado el código aplicable a una funcion que realiza una suma de variables, siendo correcta la aceptación pasa a crearse un archivo (ensamblador.asm) que es el que se ejecutará desde Windows por medio de DosBox y MASM6.11:
+![alt text](https://github.com/MayolZazueta/Traductor_c-_Mayol/blob/master/SCREENS%20TRADUCTOR/7Ensamblador_asm_Generado.PNG)
